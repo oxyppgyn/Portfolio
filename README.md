@@ -25,8 +25,8 @@ Birding Checklist for Hopewell Culture National Historical Park
 ## August 2023
 ### Birding Checklist for Hopewell Culture National Historical Park
 Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and ____ by ______ was used when compiling this checklist. ([Link](URL)).
-# December 2022
-## Building Accessibility at Ohio University
+## December 2022
+### Building Accessibility at Ohio University
 TEXT HERE
 ([Link](https://github.com/oxyppgyn/Building-Accessibility-OU)).
 # Resume
