@@ -1,8 +1,10 @@
 # Portfolio
 Welcome to my portfolio. Below you can see example of the work I've completed that relates to GIS and natural resources. A resume is also included. 
 
-[Linkedin]
-[iNaturalist]
+### Links
+!()[Github (You're already here!)](https://github.com/oxyppgyn/Portfolio/edit/main/README.md)
+[Linkedin](https://www.linkedin.com/in/tannerkhfyg/)  
+[iNaturalist](https://www.inaturalist.org/people/5752149)
 
 ## About Me
 [Image]
