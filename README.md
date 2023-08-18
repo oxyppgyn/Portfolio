@@ -14,21 +14,24 @@ My name is Tanner Hammond and I'm currently a student at Ohio University studyin
 
 ## Project Directory
 ### Academic Projects
-[Title]
-Summary
+Building Accessibility at Ohio University
 ### Work-related Projects
 Birding Checklist for Hopewell Culture National Historical Park
-
 ### Personal Projects
 
 # Projects (Sorted by Date)
 ## August 2023
 ### Birding Checklist for Hopewell Culture National Historical Park
 Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and ____ by ______ was used when compiling this checklist. ([Link](URL)).
+
 ## December 2022
 ### Building Accessibility at Ohio University
-TEXT HERE
+
+This project worked as an introduction to collecting GIS field data after learning the basics of using ArcGIS Online. 
+Map detailing the accessibility ranking of buildings at Ohio University in Athens, Ohio. Accessibility was ranked on a scale of 0 - 3 based on if a building had an elevator (when needed), if the building had accessible automatic doors, and if the accessible door (or other main door if no accessible doors were present) had a ramp to it. When looking at ramps, ADA accessible ramps (<5 degree incline) were considered good. One point was awarded for each of the criteria met.
+Points on map were placed at the location of the most accessible entrance found on the building or main entrance if no accessible door was found.
 ([Link](https://github.com/oxyppgyn/Building-Accessibility-OU)).
+![alt text](https://github.com/oxyppgyn/Building-Accessibility-OU/blob/main/Building%20Accessibility%20at%20Ohio%20University.jpg?raw=true)
 # Resume
 
 
