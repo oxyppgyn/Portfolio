@@ -2,7 +2,7 @@
 Welcome to my portfolio. Below you can see example of the work I've completed that relates to GIS and natural resources. A resume is also included. 
 
 ### Links
-<img align="left" src="https://github.githubassets.com/images/modules/dashboard/onboarding/gh-desktop.png" alt="Github" width="30"/> [Github (You're already here!)](https://github.com/oxyppgyn/Portfolio/edit/main/README.md)
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/300px-GitHub_Invertocat_Logo.svg.png" alt="Github" width="30"/> [Github (You're already here!)](https://github.com/oxyppgyn/Portfolio/edit/main/README.md)
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Linkedin" width="30"/> [Linkedin](https://www.linkedin.com/in/tannerkhfyg/)  
 
