@@ -31,7 +31,8 @@ TEXT HERE
 <img align="right" src="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update/blob/main/HOCU%20Birding%20Checklist-1.png?raw=true"  width="350"/>
 
 ### <a href="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update">Birding Checklist for Hopewell Culture National Historical Park</a>
-Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and ____ by ______ was used when compiling this checklist.
+Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and The ritual mnemonics of Hopewell symbols: An analysis of effigies and ceremonial regalia from Tremper, Mound City and Hopewell by Bretton Giles was used when compiling this checklist.
+The checklist created in 1999 only contained ____ species, while the 2023 version contains ____ species. Multiple species from the original checklist were removed due, including at least one now extirpated species: the ivory-billed woodpecker. A written report explaining how species were selected is included in the linked repository. 
 
 ## December 2022
 
