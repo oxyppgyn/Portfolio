@@ -19,7 +19,7 @@ Welcome to my portfolio. Below you can see example of the work I've completed th
 ### Academic Projects
 [Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
 ### Work-related Projects
-<p>[GIS Standards Documentation and Tools for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#gis-standards-documentation-and-tools-for-hopewell-culture-national-historical-park)<p/>
+[GIS Standards Documentation and Tools for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#gis-standards-documentation-and-tools-for-hopewell-culture-national-historical-park)
 
 [Birding Checklist for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#birding-checklist-for-hopewell-culture-national-historical-park)
 
@@ -33,7 +33,6 @@ None here yet!
 <p>Note that the original document and ArcGIS toolbox is a product of and property of the National Park Service. The versions provided in the repository have been altered to not show any sensitive data relating to Hopewell Culture National Historical Park or the National Park Service. All data and information used to compile documentation and the provided toolbox are publicly available.<p>
   
 ---
-  
 <img align="right" src="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update/blob/main/HOCU%20Birding%20Checklist-1.png?raw=true"  width="350"/>
 
 ### <a href="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update">Birding Checklist for Hopewell Culture National Historical Park</a>
@@ -45,31 +44,11 @@ The checklist created in 1999 only contained ___ species, while the 2023 version
 <img align="right" src="https://github.com/oxyppgyn/Building-Accessibility-OU/blob/main/Building%20Accessibility%20at%20Ohio%20University.jpg?raw=true"  width="350"/>
 
 ### <a href="https://github.com/oxyppgyn/Building-Accessibility-OU">Building Accessibility at Ohio University</a>
-<p>Completed as my final project for GEOG 2680: Introduction to GIS. I mapped the accessibility of buildings on Ohio University's Athens campus using ArcGIS Survey123. A basic ranking matrix was used to quantitatively evaluate differences in building accessibility–this included the presence and need of entrance ramps, accessible/powered doors, and elevators in tory buldings.<p/>
-<p>This project acted as a good introduction to collecting GIS field data after learning the basics of using ArcGIS Online.<p/>
+<p>Completed as a group final project for GEOG 2680: Introduction to GIS. For this project, I mapped the accessibility of buildings on Ohio University's Athens campus using ArcGIS Survey123. A basic ranking matrix was used to quantitatively evaluate differences in building accessibility–this included the presence and need of entrance ramps, accessible/powered doors, and elevators in buldings.This project provided a good introduction to the basics of geographic information science, ArcGIS Pro and ArcGIS Online, and collecting GIS field data.<p/>
 
-a
+<br>
 
-a
+---
+<p align="right"> Resume document last updated August __ 2023.
+<p align="right"> This page last updated August __ 2023.
 
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-<p align="right"> This page last updated August 18 2023.
