@@ -19,7 +19,7 @@ Welcome to my portfolio. Below you can see example of the work I've completed th
 ### Academic Projects
 [Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
 ### Work-related Projects
-[GIS Standards Documentation and Tools for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#gis-standards-documentation-and-tools-for-hopewell-culture-national-historical-park)
+<p>[GIS Standards Documentation and Tools for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#gis-standards-documentation-and-tools-for-hopewell-culture-national-historical-park)<p/>
 
 [Birding Checklist for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#birding-checklist-for-hopewell-culture-national-historical-park)
 
@@ -28,9 +28,9 @@ None here yet!
 
 # Projects (Sorted by Date)
 ## August 2023
-### GIS Standards Documentation and Tools for Hopewell Culture National Historical Park
+### <a href="https://github.com/oxyppgyn/HOCU-GIS-Standards">GIS Standards Documentation and Tools for Hopewell Culture National Historical Park</a>
 <p>During my summer at Hopewell Culture National Historical Park (HOCU), I worked with the park's cultural resources staff to determine the best methods for implementing a data management strategy for the park. We concluded that using the standards developed by the National Park Service in the mid-2010s should be used as the basis for data management, despite some apparent gaps in guidance when handling certain data type and edge cases. A version of the standards documentation and tools used can be found in the linked repository.<p/>
-<p>Note that the original document and ArcGIS toolbox is a product of and property of the National Park Service. The versions provided in the repository have been altered to not show any sensitive relating to Hopewell Culture National Historical Park or the National Park Service. All data and information used to compile documentation and the provided toolbox are publicly available.<p>
+<p>Note that the original document and ArcGIS toolbox is a product of and property of the National Park Service. The versions provided in the repository have been altered to not show any sensitive data relating to Hopewell Culture National Historical Park or the National Park Service. All data and information used to compile documentation and the provided toolbox are publicly available.<p>
   
 ---
   
@@ -38,7 +38,7 @@ None here yet!
 
 ### <a href="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update">Birding Checklist for Hopewell Culture National Historical Park</a>
 Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and The ritual mnemonics of Hopewell symbols: An analysis of effigies and ceremonial regalia from Tremper, Mound City and Hopewell by Bretton Giles was used when compiling this checklist.
-The checklist created in 1999 only contained ___ species, while the 2023 version contains 134 species. Multiple species from the original checklist were removed based on their abundance throughout Hopewell Culture National Historical Park sites over the past 20 years. A written report explaining how species were selected is included in the linked repository. 
+The checklist created in 1999 only contained ___ species, while the 2023 version contains 134 species. Multiple species from the original checklist were removed based on abundance data, notably including the ivory-billed woodpecker which was last officially seen in 1944. A written report explaining how species were selected is included in the linked repository. 
 
 ## December 2022
 
