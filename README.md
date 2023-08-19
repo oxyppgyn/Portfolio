@@ -16,26 +16,22 @@ I have previously worked for the Ross County Park District as a trail intern and
 
 ## Project Directory
 ### Academic Projects
-Building Accessibility at Ohio University
+[Building Accessibility at Ohio University](
 ### Work-related Projects
-Birding Checklist for Hopewell Culture National Historical Park
+[Birding Checklist for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#birding-checklist-for-hopewell-culture-national-historical-park)
 ### Personal Projects
 
 # Projects (Sorted by Date)
 ## August 2023
-### Birding Checklist for Hopewell Culture National Historical Park
-Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and ____ by ______ was used when compiling this checklist. (<a href="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update">Link</a>).
+### <a href="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update">Birding Checklist for Hopewell Culture National Historical Park</a>
+Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and ____ by ______ was used when compiling this checklist. <a href="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update">Link</a>
 [img right align]
 
 ## December 2022
-### Building Accessibility at Ohio University
+
 <img align="right" src="https://github.com/oxyppgyn/Building-Accessibility-OU/blob/main/Building%20Accessibility%20at%20Ohio%20University.jpg?raw=true"  width="350"/>
+
+### <a href="https://github.com/oxyppgyn/Building-Accessibility-OU">Building Accessibility at Ohio University</a>
 Completed as a final project for GEOG 2680: Introduction to GIS, I mapped the accessibility of buildings on Ohio University's Athens campus. A basic ranking matrix was used to quantitatively evaluate differences in building accessibility. This project was a good introduction to collecting GIS field data after learning the basics of using ArcGIS Online. (<a href="https://github.com/oxyppgyn/Building-Accessibility-OU">Link</a>).
-
-# Resume
-
-
-
-
 
 #### This page last updated August 18 2023.
