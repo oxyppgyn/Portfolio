@@ -10,13 +10,19 @@ Welcome to my portfolio. Below you can see example of the work I've completed th
 
 ## About Me
 <img align="left" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Self.png" alt="Me :)" width="275"/>
-My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography with minors in Biological Sciences and Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science. Research topics I'm interested in include restoration ecology, biogeography, invasive species management, citizen science data usage, and cultural-natural resource management. 
+My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography with minors in Biological Sciences and Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science. Research topics I'm interested in include restoration ecology, biogeography, invasive species management, citizen science data usage, and cultural-natural resource management. I have previously worked for the Ross County Park District as a trail intern and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid.
 
-I have previously worked for the Ross County Park District as a trail intern and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid.
+a
+
+a
+
+a
+
+a
 
 ## Project Directory
 ### Academic Projects
-[Building Accessibility at Ohio University](
+[Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
 ### Work-related Projects
 [Birding Checklist for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#birding-checklist-for-hopewell-culture-national-historical-park)
 ### Personal Projects
