@@ -29,7 +29,7 @@ None here yet!
 # Projects (Sorted by Date)
 ## August 2023
 ### <a href="https://github.com/oxyppgyn/HOCU-GIS-Standards">GIS Standards Documentation and Tools for Hopewell Culture National Historical Park</a>
-<p>During my summer at Hopewell Culture National Historical Park (HOCU), I worked with the park's cultural resources staff to determine the best methods for implementing a data management strategy for the park. We concluded that using the standards developed by the National Park Service in the mid-2010s should be used as the basis for data management, despite some apparent gaps in guidance when handling certain data type and edge cases. A version of the standards documentation and tools used can be found in the linked repository.<p/>
+<p>During my summer at Hopewell Culture National Historical Park (HOCU), I worked with the park's cultural resources staff to determine the best methods for implementing a GIS data management strategy for the park. We concluded that using the standards developed by the National Park Service in the mid-2010s should be used as the basis for data management, despite some apparent gaps in guidance when handling certain data type and edge cases. A version of the standards documentation and tools used can be found in the linked repository.<p/>
 <p>Note that the original document and ArcGIS toolbox is a product of and property of the National Park Service. The versions provided in the repository have been altered to not show any sensitive data relating to Hopewell Culture National Historical Park or the National Park Service. All data and information used to compile documentation and the provided toolbox are publicly available.<p>
   
 ---
