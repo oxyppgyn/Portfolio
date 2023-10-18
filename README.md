@@ -12,12 +12,13 @@ Welcome to my portfolio. Below you can see example of the work I've completed th
 
 ## About me
 <img align="right" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Self.png" alt="Me :)" width="275"/>
-<p>My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography with minors in Biological Sciences and Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science. Research topics I'm interested in include restoration ecology, biogeography, invasive species management, citizen science data usage, and cultural-natural resource management.</p>
+<p>My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography with minors in Biological Sciences and Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science.</p>
+<p>Research topics I'm interested in include population ecology, restoration ecology, biogeography, invasive species management, citizen science data usage, and cultural-natural resource management.</p>
 <p>I've previously worked for the Ross County Park District as a trail intern and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid. I'm currently working on improving my skills with GIS, python, and species identification. My current projects focus primarily on using citizen science data to understand species distributions and abundance.<p/>
 
 ## Project Directory
 ### Academic Projects
-[Population characteristics and water usage of white-tailed deer (_Odocoileus virginianus_) at Hopewell Mound Group, Hopewell Culture National Historical Park (In Progress)](https://github.com/oxyppgyn/Portfolio#
+[Population characteristics and water usage of white-tailed deer (_Odocoileus virginianus_) at Hopewell Mound Group, Hopewell Culture National Historical Park (In Progress)](https://github.com/oxyppgyn/Portfolio/blob/main/README.md#population-characteristics-and-water-usage-of-white-tailed-deer-odocoileus-virginianus-at-hopewell-mound-group-hopewell-culture-national-historical-park)
 
 [Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
 ### Work-related Projects
@@ -52,6 +53,6 @@ Created as an update to the previous 1999–2000 checklist that was created for 
 <br>
 
 ---
-<p align="right"> Resume document last updated August __ 2023.
-<p align="right"> This page last updated August __ 2023.
+<p align="right"> Resume document last updated ______ 2023.
+<p align="right"> This page last updated October 17 2023.
 
