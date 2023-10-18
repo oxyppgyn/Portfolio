@@ -42,7 +42,7 @@ None here yet!
 <img align="right" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/HOCU%20Birding%20Checklist-1.png?raw=true"  width="350"/>
 
 ### <a href="https://github.com/oxyppgyn/HOCU-Birding-List-2023-Update">Birding Checklist for Hopewell Culture National Historical Park</a>
-Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and The ritual mnemonics of Hopewell symbols: An analysis of effigies and ceremonial regalia from Tremper, Mound City and Hopewell by Bretton Giles was used when compiling this checklist. Multiple species from the original checklist were removed based on abundance data, notably including the ivory-billed woodpecker which was last officially seen in 1944.
+Created as an update to the previous 1999–2000 checklist that was created for Mound City Group. Data from surveys conducted as part of the Heartland Network, iNaturalist observations, eBird range maps, and _The ritual mnemonics of Hopewell symbols: An analysis of effigies and ceremonial regalia from Tremper, Mound City and Hopewell_ by Bretton Giles was used when compiling this checklist. Multiple species from the original checklist were removed based on abundance data, notably including the ivory-billed woodpecker which was last officially seen in 1944.
 ## December 2022
 
 <img align="right" src="https://github.com/oxyppgyn/Building-Accessibility-OU/blob/main/Building%20Accessibility%20at%20Ohio%20University.jpg?raw=true"  width="350"/>
