@@ -1,6 +1,4 @@
 THIS PAGE IS STILL UNDER CONSTRUCTION
-
-# Portfolio
 ### Links
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="Github" width="30"/> [Github (You're already here!)](https://github.com/oxyppgyn/Portfolio/edit/main/README.md)
 
