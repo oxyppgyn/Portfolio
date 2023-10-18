@@ -6,23 +6,23 @@ THIS PAGE IS STILL UNDER CONSTRUCTION
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/en/7/76/INaturalist_logo.png" alt="iNaturalist" width="30"/> [iNaturalist](https://www.inaturalist.org/people/5752149)
 
-## About me
+# About me
 <img align="right" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Self.png" alt="Me :)" width="275"/>
 <p>My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography with minors in Biological Sciences and Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science.</p>
 <p>Research topics I'm interested in include population ecology, restoration ecology, biogeography, invasive species management, citizen science data usage, and cultural-natural resource management.</p>
-<p>I've previously worked for the Ross County Park District as a trail intern and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid. I'm currently working on improving my skills with GIS, python, and species identification. My current projects focus primarily on using citizen science data to understand species distributions and abundance.<p/>
+<p>I've previously worked for the Ross County Park District as a trail intern and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid. I'm currently working on improving my skills with GIS, python, and species identification. My current projects focus on using data created by the National Park Service and the usage of trail cameras and associated sampling techniques.<p/>
 
-## Project Directory
-### Academic Projects
+# Project Directory
+## Academic Projects
 [Population characteristics and water usage of white-tailed deer (_Odocoileus virginianus_) at Hopewell Mound Group, Hopewell Culture National Historical Park (In Progress)](https://github.com/oxyppgyn/Portfolio/blob/main/README.md#population-characteristics-and-water-usage-of-white-tailed-deer-odocoileus-virginianus-at-hopewell-mound-group-hopewell-culture-national-historical-park)
 
 [Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
-### Work-related Projects
+## Work-related Projects
 [GIS Standards Documentation and Tools for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#gis-standards-documentation-and-tools-for-hopewell-culture-national-historical-park)
 
 [Birding Checklist for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#birding-checklist-for-hopewell-culture-national-historical-park)
 
-### Personal Projects
+## Personal Projects
 None here yet!
 
 # Projects (Sorted by Date)
