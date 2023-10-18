@@ -36,7 +36,7 @@ Currently, NPSpecies does not provide an interactive map despite being composed 
 This project will use a camera trap dataset created for deer density estimation and varying methodologies to assess differences in density modeling results. The ultimate goal of this project will be to determine the most accurate density estimation method at the site and the workflow that is most likely to succeed as a yearly population monitoring strategy (i.e., easiest to implement, high automation ability, and least time intensive). 
 
 ### Population characteristics and water usage of white-tailed deer (_Odocoileus virginianus_) at Hopewell Mound Group, Hopewell Culture National Historical Park
-This project uses trail cameras and random encounter model sampling methods to determine a baseline deer population density estimate and characterisitcs data for Hopewell Mound Group. Deer water use and behavior near watering sites will also be assessed. 
+This project uses trail cameras and random encounter model sampling methods to determine a baseline deer population density estimate and characterisitcs data for Hopewell Mound Group. Deer water use and behavior near watering sites will also be assessed. Completion of this project is expected to be in Late January.
 
 ## August 2023
 ### <a href="https://github.com/oxyppgyn/HOCU-GIS-Standards">GIS Standards Documentation and Tools for Hopewell Culture National Historical Park</a>
