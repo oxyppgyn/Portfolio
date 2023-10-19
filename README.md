@@ -10,7 +10,7 @@ THIS PAGE IS STILL UNDER CONSTRUCTION
 <img align="right" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Self.png" alt="Me :)" width="275"/>
 <p>My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography with minors in Biological Sciences and Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science.</p>
 <p>Research topics I'm interested in include population ecology, restoration ecology, biogeography, invasive species management, citizen science data usage, and cultural-natural resource management.</p>
-<p>I've previously worked for the Ross County Park District as a trail intern and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid. I'm currently working on improving my skills with GIS, python, and species identification. My current projects focus on using data created by the National Park Service and the usage of trail cameras and associated sampling techniques.<p/>
+<p>I've previously worked for the Ross County Park District as a trail intern (Summer 2022) and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid (Summer 2023). I'm currently working on improving my skills with GIS, python, and species identification. My current projects focus on using data created by the National Park Service and the usage of trail cameras and associated sampling techniques.<p/>
 
 # Project Directory
 ## Academic Projects
@@ -30,8 +30,8 @@ None here yet!
 ### Interactive NPSpecies Map Application
 Currently, NPSpecies does not provide an interactive map despite being composed of largely spatial data. I plan to utilize the existing REST API for NPSpecies data through Integrated Resource Management Applications (IRMA) to create an automatically updating mapping application that allows easy viewing and filtering of species data and automatic interpolation of data.
 
-### Assessment of alternatives to random encounter modeling on a dataset at Hopewell Mound Group
-This project will use a camera trap dataset created for deer density estimation and varying methodologies to assess differences in density modeling results. The ultimate goal of this project will be to determine the most accurate density estimation method at the site and the workflow that is most likely to succeed as a yearly population monitoring strategy (i.e., easiest to implement, high automation ability, and least time intensive). 
+### Comparative analysis of density estimation methods for unmarked species at Hopewell Mound Group
+This project will use a camera trap dataset created to estimate deer densities using the random encounter model and varying methodologies to assess differences in density modeling results. The ultimate goal of this project will be to determine the most accurate density estimation method at the site and the workflow that is most likely to succeed as a yearly population monitoring strategy (i.e., easiest to implement, high automation ability, and least time intensive). 
 
 ### Population characteristics and water usage of white-tailed deer (_Odocoileus virginianus_) at Hopewell Mound Group, Hopewell Culture National Historical Park
 This project uses trail cameras and random encounter model sampling methods to determine a baseline deer population density estimate and characterisitcs data for Hopewell Mound Group. Deer water use and behavior near watering sites will also be assessed. Completion of this project is expected to be in Late January.
