@@ -52,6 +52,5 @@ Note: The included image is only part of the full checklist. View the full versi
 <br>
 
 ---
-<p align="right"> Resume document last updated ______ 2023.
-<p align="right"> This page last updated October 17 2023.
+<p align="right"> This page last updated February 1 2024.
 
