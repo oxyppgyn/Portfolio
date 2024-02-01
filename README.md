@@ -1,4 +1,3 @@
-THIS PAGE IS STILL UNDER CONSTRUCTION
 ### Links
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="Github" width="30"/> [Github (You're already here!)](https://github.com/oxyppgyn/Portfolio/edit/main/README.md)
 
@@ -14,7 +13,6 @@ THIS PAGE IS STILL UNDER CONSTRUCTION
 
 # Project Directory
 ## Academic Projects
-[Population characteristics and water usage of white-tailed deer (_Odocoileus virginianus_) at Hopewell Mound Group, Hopewell Culture National Historical Park (In Progress)](https://github.com/oxyppgyn/Portfolio/blob/main/README.md#population-characteristics-and-water-usage-of-white-tailed-deer-odocoileus-virginianus-at-hopewell-mound-group-hopewell-culture-national-historical-park)
 
 [Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
 ## Work-related Projects
@@ -23,7 +21,7 @@ THIS PAGE IS STILL UNDER CONSTRUCTION
 [Birding Checklist for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#birding-checklist-for-hopewell-culture-national-historical-park)
 
 ## Personal Projects
-None here yet!
+[Population characteristics and water usage of white-tailed deer (_Odocoileus virginianus_) at Hopewell Mound Group, Hopewell Culture National Historical Park (In Progress)](https://github.com/oxyppgyn/Portfolio/blob/main/README.md#population-characteristics-and-water-usage-of-white-tailed-deer-odocoileus-virginianus-at-hopewell-mound-group-hopewell-culture-national-historical-park)
 
 # Projects (Sorted by Date)
 ## Current & Upcoming
@@ -34,9 +32,8 @@ Currently, NPSpecies does not provide an interactive map despite being composed 
 This project uses trail cameras and random encounter model sampling methods to determine a baseline deer population density estimate and characterisitcs data for Hopewell Mound Group. Deer water use and behavior near watering sites will also be assessed.
 
 ## August 2023
-### <a href="https://github.com/oxyppgyn/HOCU-GIS-Standards">GIS Standards Documentation and Tools for Hopewell Culture National Historical Park</a>
-<p>During my summer at Hopewell Culture National Historical Park (HOCU), I worked with the park's cultural resources staff to determine the best methods for implementing a GIS data management strategy for the park. We concluded that using the standards developed by the National Park Service in the mid-2010s should be used as the basis for data management, despite some apparent gaps in guidance when handling certain data type and edge cases. A version of the standards documentation and tools used can be found in the linked repository.<p/>
-<p>Note that the original document and ArcGIS toolbox is a product of and property of the National Park Service. The versions provided in the repository have been altered to not show any sensitive data relating to Hopewell Culture National Historical Park or the National Park Service. All data and information used to compile documentation and the provided toolbox are publicly available.<p>
+### GIS Standards Documentation and Tools for Hopewell Culture National Historical Park
+<p>During my summer at Hopewell Culture National Historical Park (HOCU), I worked with the park's cultural resources staff to determine the best methods for implementing a GIS data management strategy for the park. We concluded that using the standards developed by the National Park Service in the mid-2010s should be used as the basis for data management, despite some apparent gaps in guidance when handling certain data type and edge cases. Note that the original document and ArcGIS toolbox is a product of and property of the National Park Service and is not publicly available.
   
 ---
 <img align="right" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/HOCU%20Birding%20Checklist-1.png?raw=true"  width="350"/>
