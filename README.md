@@ -7,7 +7,7 @@
 
 # About me
 <img align="right" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Self.png" alt="Me :)" width="275"/>
-<p>My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography and Environmental biology with a minor in Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science.</p>
+<p>My name is Tanner Hammond and I'm currently a student at Ohio University studying Environmental Geography and Environmental Biology with a minor in Plant & Environmental Biology. I am also pursuing a certificate in Geographic Information Science.</p>
 <p>Research topics I'm interested in include population ecology, restoration ecology, biogeography, invasive species management, citizen science data usage, and cultural-natural resource management.</p>
 <p>I've previously worked for the Ross County Park District as a trail intern (Summer 2022) and at the National Park Service (Hopewell Culture National Historical Park) as a biological science aid (Summer 2023). I'm currently working on improving my skills with GIS, python, and species identification. My current project involves determining deer population ecology using trail cameras.<p/>
 
