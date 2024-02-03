@@ -47,7 +47,7 @@ Note: The included image is only part of the full checklist. View the full versi
 <img align="right" src="https://github.com/oxyppgyn/Building-Accessibility-OU/blob/main/Building%20Accessibility%20at%20Ohio%20University.jpg?raw=true"  width="350"/>
 
 ### <a href="https://github.com/oxyppgyn/Building-Accessibility-OU">Building Accessibility at Ohio University</a>
-<p>Completed as a group final project for GEOG 2680: Introduction to GIS. For this project, I mapped the accessibility of buildings on Ohio University's Athens campus using ArcGIS Survey123. A basic ranking matrix was used to quantitatively evaluate differences in building accessibility–this included the presence and need of entrance ramps, accessible/powered doors, and elevators in buldings.This project provided a good introduction to the basics of geographic information science, ArcGIS Pro and ArcGIS Online, and collecting GIS field data.<p/>
+<p>Completed as a group final project for GEOG 2680: Introduction to GIS. For this project, I mapped the accessibility of buildings on Ohio University's Athens campus using ArcGIS Survey123. A basic ranking matrix was used to quantitatively evaluate differences in building accessibility–this included the presence and need of entrance ramps, accessible/powered doors, and elevators in buldings. This project provided a good introduction to the basics of geographic information science, ArcGIS Pro and ArcGIS Online, and collecting GIS field data.<p/>
 
 <br>
 
