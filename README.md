@@ -14,7 +14,10 @@
 # Project Directory
 ## Academic Projects
 
+[Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab](link)
+
 [Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
+
 ## Work-related Projects
 [GIS Standards Documentation and Tools for Hopewell Culture National Historical Park](https://github.com/oxyppgyn/Portfolio#gis-standards-documentation-and-tools-for-hopewell-culture-national-historical-park)
 
