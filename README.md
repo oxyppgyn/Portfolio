@@ -14,7 +14,7 @@
 # Project Directory
 ## Academic Projects
 
-[Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab](https://github.com/oxyppgyn/Portfolio#assessing-the-effects-of-environmental-variablesand-landscape-change-on-tree-stands-at-the-ridges-land-lab)
+[Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab](https://github.com/oxyppgyn/Portfolio#assessing-the-effects-of-environmental-variables-and-landscape-change-on-tree-stands-at-the-ridges-land-lab)
 
 [Building Accessibility at Ohio University](https://github.com/oxyppgyn/Portfolio#building-accessibility-at-ohio-university)
 
