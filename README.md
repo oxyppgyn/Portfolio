@@ -39,7 +39,7 @@ This project uses trail cameras to determine a baseline deer population density 
 
 ## December 2023
 ### <a href="https://github.com/oxyppgyn/FEco-Proj-2023/tree/main">Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab</a>
-<p> During Fall 2023 as part of my Field Ecology course, I completed a course-long project covering variability in tree diversity at the ridges land lab. I conducted this study at the Ridges Land Lab where I used standardized random plots to estimate diversity and density of trees across the landscape. From my results, I found that commonly used environmental variables (slope, aspect, and elevation) did not account for variation in tree assemblages. However, I did find a striking pattern in the age classes dominant species: white oak and oak maple, that is believed to be correlated to the process of mesophication currently occurring in the northeastern United States.
+<p> During Fall of 2023 as part of my Field Ecology course, I completed a course-long project covering variability in tree diversity. I conducted this study at the Ridges Land Lab where I used standardized random plots to estimate diversity and density of trees across the landscape. From my results, I found that commonly used environmental variables (slope, aspect, and elevation) did not account for variation in tree assemblages. However, I did find a striking pattern in the age classes dominant species: white oak and oak maple, that is believed to be correlated to the process of mesophication currently occurring in the northeastern United States.
 
 
 ## August 2023
