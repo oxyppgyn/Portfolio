@@ -39,7 +39,7 @@ This project uses trail cameras to determine a baseline deer population density 
 
 ## December 2023
 ### <a href="https://github.com/oxyppgyn/FEco-Proj-2023/tree/main">Assessing the Effects of Environmental Variables and Landscape Change on Tree Stands at The Ridges Land Lab</a>
-<p> During Fall of 2023 as part of my Field Ecology course, I completed a course-long project covering variability in tree diversity. I conducted this study at the Ridges Land Lab where I used standardized random plots to estimate diversity and density of trees across the landscape. From my results, I found that commonly used environmental variables (slope, aspect, and elevation) did not account for variation in tree assemblages. However, I did find a striking pattern in the age classes dominant species: white oak and oak maple, that is believed to be correlated to the process of mesophication currently occurring in the northeastern United States.
+<p> During Fall of 2023 as part of my Field Ecology (BIOS 3760) course, I completed a course-long project covering variability in tree diversity. I conducted this study at the Ridges Land Lab where I used standardized random plots to estimate diversity and density of trees across the landscape. From my results, I found that commonly used environmental variables (slope, aspect, and elevation) did not account for variation in tree assemblages. However, I did find a striking pattern in the age classes dominant species: white oak and oak maple, that is believed to be correlated to the process of mesophication currently occurring in the northeastern United States.
 
 
 ## August 2023
@@ -58,10 +58,10 @@ Note: The included image is only part of the full checklist. View the full versi
 
 
 ## December 2022
-<img align="right" src="https://github.com/oxyppgyn/Building-Accessibility-OU/blob/main/Building%20Accessibility%20at%20Ohio%20University.jpg?raw=true"  width="425"/>
+<img align="right" src="https://github.com/oxyppgyn/Building-Accessibility-OU/blob/main/Building%20Accessibility%20at%20Ohio%20University.jpg?raw=true"  width="350"/>
 
 ### <a href="https://github.com/oxyppgyn/Building-Accessibility-OU">Building Accessibility at Ohio University</a>
-<p>Completed as a group final project for GEOG 2680: Introduction to GIS. For this project, I mapped the accessibility of buildings on Ohio University's Athens campus using ArcGIS Survey123. A basic ranking matrix was used to quantitatively evaluate differences in building accessibility–this included the presence and need of entrance ramps, accessible/powered doors, and elevators in buldings. This project provided a good introduction to the basics of geographic information science, ArcGIS Pro and ArcGIS Online, and collecting GIS field data.<p/>
+<p>Completed as a group final project for Introduction to GIS (GEOG 2680). For this project, I mapped the accessibility of buildings on Ohio University's Athens campus using ArcGIS Survey123. A basic ranking matrix was used to quantitatively evaluate differences in building accessibility–this included the presence and need of entrance ramps, accessible/powered doors, and elevators in buldings. This project provided a good introduction to the basics of geographic information science, ArcGIS Pro and ArcGIS Online, and collecting GIS field data.<p/>
 
 <br>
 
