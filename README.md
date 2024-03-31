@@ -1,4 +1,6 @@
 ### Links
+<img align="left" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Resume.png" width="30"/> [Resume](https://github.com/oxyppgyn/Portfolio/edit/main/Resume---Hammond,-Tanner.pdf)
+
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="Github" width="30"/> [Github (You're already here!)](https://github.com/oxyppgyn/Portfolio/edit/main/README.md)
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Linkedin" width="30"/> [Linkedin](https://www.linkedin.com/in/tannerkhfyg/)  
