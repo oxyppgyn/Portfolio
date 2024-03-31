@@ -1,5 +1,5 @@
 ### Links
-<img align="left" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Resume.png" width="30"/> [Resume](https://github.com/oxyppgyn/Portfolio/edit/main/Resume---Hammond,-Tanner.pdf)
+<img align="left" src="https://github.com/oxyppgyn/Portfolio/blob/main/Images/Resume.png" width="30"/> [Resume](https://github.com/oxyppgyn/Portfolio/blob/main/Resume%20-%20Hammond%2C%20Tanner.pdf)
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="Github" width="30"/> [Github (You're already here!)](https://github.com/oxyppgyn/Portfolio/edit/main/README.md)
 
@@ -74,5 +74,5 @@ Note: The included image is only part of the full checklist. View the full versi
 <br>
 
 ---
-<p align="right"> This page last updated February 14 2024.
+<p align="right"> This page last updated Maarch 31, 2024.
 
